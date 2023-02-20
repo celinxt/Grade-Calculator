@@ -1,4 +1,4 @@
-# Explorer-Projeto-10
+# Grade Calculator
 Projeto de uma calculadora de média de objetos em um array.
 
 ## Video do projeto
