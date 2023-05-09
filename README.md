@@ -27,7 +27,7 @@
 
 <p> Project of a grade calculator of objects in an array. </p>
 
-<p align="center"><img src = "assets/project.gif" alt="Project image" height="400"></p>
+<p align="center"><img src = "assets/project.gif" alt="Project image" height="200"></p>
 <br><br>
 Project Link - https://celinxt.github.io/Grade-Calculator/
 
